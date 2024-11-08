@@ -1,3 +1,4 @@
 # quiz-web-app
-This is my first project.
-Author - Ali Abbas
+This is my first project. 
+<br>
+<b> Author - Ali Abbas </b>
